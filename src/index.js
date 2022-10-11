@@ -51,6 +51,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 
                 t.forEach((element)=>{
                     obj.push(element);
+                    console.log(element)
                 })
 
 
